@@ -1,0 +1,8 @@
+;;;; project-maker.lisp
+;;;;
+;;;; Copyright (c) 2018 George P. Taylor IX
+
+(in-package #:project-maker)
+
+;;; "project-maker" goes here. Hacks and glory await!
+
